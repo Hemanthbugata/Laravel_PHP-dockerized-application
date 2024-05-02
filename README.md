@@ -1,4 +1,4 @@
-
+![image](https://github.com/Hemanthbugata/Laravel_PHP-dockerized-application/assets/102855092/9c25ccc1-c16d-4ffa-8584-8ddf200a9d30)
 <h2> Project _ Introduction </h2>
 
 <p> 
@@ -42,6 +42,9 @@ Overall, this Dockerized Laravel-PHP application offers a modular, efficient, an
    docker-compose up -d server php mysql ( create images for sever php mysql and laravel project , then start containers , localhost:8000:80 displays the application )
 
    docker-compose down ( stopping / dropping the containers)
+
+   docker-compose run --rm  artisan migrate (checks the connectivity of database)
+
 
    docker images (shows all docker images )
 
