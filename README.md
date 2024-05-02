@@ -1,4 +1,3 @@
-![image](https://github.com/Hemanthbugata/Laravel_PHP-dockerized-application/assets/102855092/9c25ccc1-c16d-4ffa-8584-8ddf200a9d30)
 <h2> Project _ Introduction </h2>
 
 <p> 
