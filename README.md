@@ -1,4 +1,3 @@
-![image](https://github.com/Hemanthbugata/Laravel_PHP-dockerized-application/assets/102855092/b92b74d2-5589-4d9d-8f0d-7bc34d393dad)# Laravel_PHP-dockerized-application
 
 <h2> Project _ Introduction </h2>
 
@@ -33,7 +32,8 @@ Overall, this Dockerized Laravel-PHP application offers a modular, efficient, an
 
 </p>
 <h3>Architecture</h3>
-![Architecture](https://github.com/Hemanthbugata/Laravel_PHP-dockerized-application/assets/102855092/340ed6f3-4632-449d-a8d2-fee2e1f862cc)
+
+![architecture](https://github.com/Hemanthbugata/Laravel_PHP-dockerized-application/assets/102855092/7bee9497-a2ad-4416-9e77-5795db3b897c)
 
 <h3>Execution with docker commands </h3>
 
