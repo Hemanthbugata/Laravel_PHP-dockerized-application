@@ -31,8 +31,6 @@ This project aims to containerize a Laravel-PHP application for streamlined deve
 
 Overall, this Dockerized Laravel-PHP application offers a modular, efficient, and scalable solution for building and deploying web applications, streamlining development workflows and enhancing application reliability and performance.
 
-
-
-
 </p>
 
+![Architecture](https://github.com/Hemanthbugata/Laravel_PHP-dockerized-application/assets/102855092/340ed6f3-4632-449d-a8d2-fee2e1f862cc)
