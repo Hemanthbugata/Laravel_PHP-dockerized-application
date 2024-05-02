@@ -1,4 +1,4 @@
-# Laravel_PHP-dockerized-application
+![image](https://github.com/Hemanthbugata/Laravel_PHP-dockerized-application/assets/102855092/b92b74d2-5589-4d9d-8f0d-7bc34d393dad)# Laravel_PHP-dockerized-application
 
 <h2> Project _ Introduction </h2>
 
@@ -32,5 +32,19 @@ This project aims to containerize a Laravel-PHP application for streamlined deve
 Overall, this Dockerized Laravel-PHP application offers a modular, efficient, and scalable solution for building and deploying web applications, streamlining development workflows and enhancing application reliability and performance.
 
 </p>
-
+<h3>Architecture</h3>
 ![Architecture](https://github.com/Hemanthbugata/Laravel_PHP-dockerized-application/assets/102855092/340ed6f3-4632-449d-a8d2-fee2e1f862cc)
+
+<h3>Execution with docker commands </h3>
+
+   docker-compose run --rm composer create-project --prefer-dist laravel/laravel (creates project in src and installs dependencies of server , php and mysql with composer (utility container)
+
+   docker-compose up -d server php mysql ( create images for sever php mysql and laravel project , then start containers , localhost:8000:80 displays the application )
+
+   docker-compose down ( stopping / dropping the containers)
+
+   docker images (shows all docker images )
+
+   docker ps -a (shows all containers)
+   
+
