@@ -47,6 +47,6 @@ Overall, this Dockerized Laravel-PHP application offers a modular, efficient, an
 
    docker images (shows all docker images )
 
-   docker ps -a (shows all containers)
+   docker ps -a (shows all running containers )
    
 
